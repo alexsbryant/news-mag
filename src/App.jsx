@@ -12,6 +12,6 @@ const App = () => {
       <NewsBoard category={category} />
     </>
   )
-}
+};
 
 export default App
