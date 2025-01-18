@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Navbar = ( { setCatagory }) => {
+const Navbar = ({ setCatagory }) => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary" >
     <div className="container-fluid">
